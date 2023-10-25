@@ -1,7 +1,8 @@
 # NOTE TAKER
 
 ## Description
-An app for a busy dev.  Enter and save notes, comprised of a title and text body, to a list with save/delete functionality.
+An app for a busy dev.  Enter and save notes, comprised of a title and text body, to a list with save/delete functionality via Express. 
+UT Austin Coding Bootcamp Challenge 11.
 
 ## Table of Contents
 * [User Story](#user-story)
@@ -39,8 +40,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## Technologies Used
 1. JavaScript
 2. Node.js
-3. Heroku
-4. npm
+3. Express
+4. Heroku
+5. npm
 
 ## References
 1. UTA Bootcamp curriculum, instructor examples and student solved examples
