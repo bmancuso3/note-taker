@@ -24,10 +24,22 @@ app.get('/notes', (req, res) =>
     res.sendFile(path.join(__dirname, '/public/notes.html'))
 );
 
-
-// GET api for db
+const notes = require('./db/db.json')
+// GET api for notes db
+app.get('/api/notes', (req, res) => {
+    res.json(notes);
+  });
 
 // POST api for new note
+app.post('/api/notes', (req, res) => {
+    const { noteTitle, noteText } = req.body; 
+    if (noteTitle && noteText) {
+        const newNote = {
+            noteTitle,
+            noteText
+        };
+    }
+})
 
 
 app.listen(PORT, () => {
