@@ -1,3 +1,4 @@
+// ! NEW HEROKU APP, CONNECT TO GITHUB, DEPOLOYMENT ON END OF CLASS RECORDING 26 OCT
 // import necessary variables
 const express = require('express');
 const path = require('path');
@@ -13,10 +14,20 @@ const PORT = process.env.PORT || 3001;
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-// GET route to notes page
+// GET route for home
 app.get('/', (req, res) =>
+    res.sendFile(path.join(__dirname, '/public/index.html'))
+);
+
+// GET route for notes page
+app.get('/notes', (req, res) =>
     res.sendFile(path.join(__dirname, '/public/notes.html'))
 );
+
+
+// GET api for db
+
+// POST api for new note
 
 
 app.listen(PORT, () => {
