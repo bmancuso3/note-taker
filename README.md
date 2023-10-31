@@ -51,14 +51,17 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## Links
 ### <a href="https://github.com/bmancuso3/note-taker">GitHub Repository</a>
 
-### <a href="https://bmancuso3.github.io/note-taker">Live Site</a>
+### <a href="https://notes-app-challenge-11-a7b13332d6d0.herokuapp.com/">Live Site</a>
 
 ### <a href="">Video Walk-Through - N/A</a>
 
 ## Preview
 
-### EX1
-<img src='./examples/gen-logo-EX1.svg' alt='EX1'/>
+### New Note
+<img src='./Assets/Note Page Ex.png' alt='EX1'/>
+
+### View Note
+<img src='./Assets/Note View Ex.png' alt='EX2'/>
 
 
 ## License
