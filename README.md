@@ -39,10 +39,11 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Technologies Used
 1. JavaScript
-2. Node.js
-3. Express
-4. Heroku
-5. npm
+2. HTML
+3. CSS
+4. Node.js
+5. Express
+6. Heroku
 
 ## References
 1. UTA Bootcamp curriculum, instructor examples and student solved examples - UTA-VIRT-FSF-FT-09-2023-U-LOLC
