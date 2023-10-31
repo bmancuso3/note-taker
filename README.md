@@ -45,16 +45,15 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 5. npm
 
 ## References
-1. UTA Bootcamp curriculum, instructor examples and student solved examples
-2. Andres Miro - helped with class creation and property assignment
-3. Basic SVG shape components and theory - <a href='https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes'>mdn web docs</a>
+1. UTA Bootcamp curriculum, instructor examples and student solved examples - UTA-VIRT-FSF-FT-09-2023-U-LOLC
+2. Alexis San Javier - Bootcamp Spot Tutor, asanjavier@bootcampspot.com
 
 ## Links
 ### <a href="https://github.com/bmancuso3/note-taker">GitHub Repository</a>
 
-### <a href="https://bmancuso3.github.io/note-taker">Live Site - Not Applicable</a>
+### <a href="https://bmancuso3.github.io/note-taker">Live Site</a>
 
-### <a href="https://drive.google.com/file/d/1i4w-h0pWKxindg4VEiuMEb8uMyrDsiaH/view">Video Walk-Through</a>
+### <a href="">Video Walk-Through - N/A</a>
 
 ## Preview
 

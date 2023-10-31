@@ -1,6 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
+[{"id":"9ae20025-ec78-4c08-a05d-de59d55b67ec","title":"Do dishes","text":"Make sure to do the dishes"},{"id":"f7990a66-c450-496d-a7b4-b2c682f6c832","title":"Take out trash","text":"You need to take the trash out"},{"id":"6c60c450-715d-4734-94d5-e957e11805ed","title":"Clean the stove","text":"It's dirty. Get on it."},{"id":"8ae9a767-eab2-4866-8e92-7a6719d03c6f","title":"Do the other things","text":"Make sure you do them all"}]
