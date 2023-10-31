@@ -1,4 +1,3 @@
-// ! NEW HEROKU APP, CONNECT TO GITHUB, DEPOLOYMENT ON END OF CLASS RECORDING 26 OCT
 // import necessary variables
 const express = require('express');
 const path = require('path');
